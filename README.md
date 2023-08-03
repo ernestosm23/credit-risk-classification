@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit-Risk-Classification
 
 ![Logo](https://github.com/ernestosm23/credit-risk-classification/blob/main/Credit_Risk/loan_analysis.jpg)
    
